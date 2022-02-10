@@ -1,6 +1,6 @@
 # Docker hub demo
 
-### Configure credencials.
+### Configuring credentials.
 
 First you need to update the [settings.xml](https://dmp.fabric8.io/#authentication) from maven.
 
