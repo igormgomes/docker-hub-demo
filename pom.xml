@@ -90,7 +90,7 @@
 						<image>
 							<name>${artifactId}</name>
 							<build>
-								<contextDir>${project.basedir}</contextDir>
+								<contextDir>${project.artifactId}</contextDir>
 								<tags>
 									<tag>${version}</tag>
 								</tags>
