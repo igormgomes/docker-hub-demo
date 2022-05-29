@@ -2,7 +2,7 @@
 
 ### Configuring credentials.
 
-First you need to update the [settings.xml](https://dmp.fabric8.io/#authentication) from maven.
+First you need to update the Maven [settings.xml](https://dmp.fabric8.io/#authentication) with your Docker Hub's credentials.
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
