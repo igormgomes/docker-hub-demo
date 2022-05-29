@@ -16,7 +16,7 @@ First you need to update the Maven [settings.xml](https://dmp.fabric8.io/#authen
 </servers>
 ```
 
-Also is necessary update where the image will be pushed
+Also is necessary update where the image will be pushed [pom.xml](https://github.com/igormgomes/docker-hub-demo/blob/master/pom.xml))
 
 ```xml
 <verbose>true</verbose>
